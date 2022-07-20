@@ -1,0 +1,6 @@
+this project is creating for checking the deployment feature by using the adding war file with different versions.
+the procedure im using now is 
+create one war file
+push files to git
+build the war file with jenkins
+create one tomcat image in docker and deploy war file in it. 
