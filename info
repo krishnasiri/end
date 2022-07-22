@@ -4,3 +4,11 @@ create one war file
 push files to git
 build the war file with jenkins
 create one tomcat image in docker and deploy war file in it. 
+
+
+some useful commands for k8s testing
+
+ scp -i jenkins.pem /var/lib/jenkins/workspace/k8s/target/linux.war ubuntu@44.202.161.179:/home/ubuntu
+
+ sudo docker cp /home/ubuntu/linux.war ae58824ff120:/usr/local/tomcat/webapps
+
