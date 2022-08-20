@@ -15,7 +15,7 @@
 <p> Task 4: Change the credentials for Tomcat Webapp</p>
 <p> Task 5 : Deploy the generated artifact file in Tomcat in Soft Deployment way or Hard Deployment way as your wish</p>
 <p>
-<img src="thumb.png" alt="Thumb" style="float:left;width:22px;height:22px;">
+<img src="peg.jpeg" alt="Thumb" style="float:left;width:22px;height:22px;">
 All The Best Guys
 </p>
 
@@ -28,6 +28,7 @@ All The Best Guys
 
 <h2>Whatsapp Link</h2>
 <p><a href=" https://chat.whatsapp.com/LHqdkPqHNFR53XQfThy0t3">KT Team</a></p>
+<p>! Note : its created just for testing only. My next step is creating a job or exam application page for create some exam patterns for the knowledge purpose</p>
 
 <p style="text-align:right;">design by KRISHNA</p>
 
