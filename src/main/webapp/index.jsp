@@ -5,8 +5,9 @@
 <div style="background-color:powderblue;color:black;padding:20px;">
   <h2>Welcome To My World</h2>
  <h2>This is a testing page for generating new webpage with own html code</h2>
-  <p>Here I’m Happily inviting everyone to watch this link for get some knowledge from <strong> YOUTUBE </strong> links.</p>
-  <p> Here I’m giving some tasks for the basic knowledge test. If you are interested let’s join with me. I will provide the whatsapp group link to join with me. Now let’s start with some tasks.</p>
+  <p>Here I am Happily inviting everyone to watch this link for get some knowledge from <strong> YOUTUBE </strong> links.</p>
+  <p> Here I am giving some tasks for the basic knowledge test. If you are interested lets join with me. I will provide the whatsapp group link to join with me to learn more with different ways.</p>
+  <p> Now lets start with some tasks.</p>
   <h2>Basic Level Tasks</h2>
 <p>Task 1: install Jenkins in ubuntu server</p>
 <p>Task 2: Run one basic buid with your own scm code files or collect it from krishnasiri repo and run some basic maven builds on it.</p>
